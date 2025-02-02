@@ -1,0 +1,6 @@
+python
+flask
+pandas
+numpy
+werkzeug
+sci-kit learn
